@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{447:function(e,t,a){"use strict";a.r(t);var n=a(59),s=a(1),c=a.n(s),r=a(200),i=a(201);t.default=function(){return c.a.createElement(r.a,{style:{height:"100vh",justifyContent:"center",alignItems:"center"}},c.a.createElement(i.a,{md:6,lg:4,className:"text-center"},c.a.createElement(n.a,{type:"display-1",className:"text-danger"},"404"),c.a.createElement("p",null,"La pagina che stai cercando non esiste o \xe8 stata rimossa.")))}}}]);
+//# sourceMappingURL=24.2b4c04e4.chunk.js.map
